@@ -4,4 +4,5 @@
 <br>
 <p><h1> Data</h1> </p>
 <p>Download the Massachusets and Ottawa road datasets from this link https://www.cs.toronto.edu/~vmnih/data/. </p>
+<p>Weights: https://drive.google.com/drive/folders/156OLmZ6ra0GbDIAT0Y92QLxxf9XkcKIu?usp=sharing </p>
   
