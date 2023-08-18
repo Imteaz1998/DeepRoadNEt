@@ -4,5 +4,12 @@
 <br>
 <p><h1> Data</h1> </p>
 <p>Download the Massachusets and Ottawa road datasets from this link https://www.cs.toronto.edu/~vmnih/data/. </p>
-<p>Weights: https://drive.google.com/drive/folders/156OLmZ6ra0GbDIAT0Y92QLxxf9XkcKIu?usp=sharing </p>
-  
+<p>EFF7+residualNET_Weights: https://drive.google.com/drive/folders/156OLmZ6ra0GbDIAT0Y92QLxxf9XkcKIu?usp=sharing </p>
+<br>
+<p>EFF6+residualNET_Weights: https://drive.google.com/file/d/1SBwDJJMPKtDf75TzwKYPrRfndmOQuh1H/view?usp=drive_link </p>
+<br>
+<p>EFF5+residualNET_Weights: https://drive.google.com/file/d/1_ISBCTMhIGr8xUAoR_113TS8lxaMDsxd/view?usp=sharing </p>  
+<br>
+<p>EFF4+residualNET_Weights: https://drive.google.com/file/d/1M4tp8Hg5x_5SxUqwI1gtpE66S1aqBwGL/view?usp=sharing </p> 
+<br>
+<p>EFF0+residualNET_Weights: https://drive.google.com/file/d/1txvg898aF_IM3XkcbXMKt7kQNsTSsATT/view?usp=sharing </p> 
