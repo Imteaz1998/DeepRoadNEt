@@ -13,3 +13,8 @@
 <p>EFF4+residualNET_Weights: https://drive.google.com/file/d/1M4tp8Hg5x_5SxUqwI1gtpE66S1aqBwGL/view?usp=sharing </p> 
 <br>
 <p>EFF0+residualNET_Weights: https://drive.google.com/file/d/1txvg898aF_IM3XkcbXMKt7kQNsTSsATT/view?usp=sharing </p> 
+
+<h1>Cite this paper:</h1><br>
+<p>Ahmed, M.I., Foysal, M., Chaity, M.D., Hossain, A.B.M.A.: DeepRoadNet: A deep residual based segmentation network for road map detection from remote aerial image. IET Image Process. 00, 1–15 (2023). <a href="https://doi.org/10.1049/ipr2.12948">DOI: https://doi.org/10.1049/ipr2.12948 </a></p>
+
+
